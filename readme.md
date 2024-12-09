@@ -1,6 +1,7 @@
+# Sunshine Scribbles
 # Blog App
 
-A cute blogging webapp built using NodeJS, ExpressJS and MongoDb. Authenticated and authorization functions with passport
+A cute blogging webapp built using NodeJS, ExpressJS and MongoDb. 
 
 ## Functions
 
